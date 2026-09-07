@@ -2,7 +2,7 @@
 
 **[Русский](README.ru.md)** | **[English](README.md)**
 
-Graphix is a simple desktop app for plotting mathematical functions and analyzing their properties. Type a function — get a graph and a full breakdown of its properties.
+**Graphix is a simple desktop app for plotting mathematical functions and analyzing their properties. Type a function — get a graph and a full breakdown of its properties.**
 ---
 
 ### Features
