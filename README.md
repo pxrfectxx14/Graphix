@@ -39,5 +39,5 @@ pip install customtkinter matplotlib numpy sympy
 python main.py
 ```
 
-Type a function (e.g. `x**2 - 4` or `sin(x)`) and click "Построить график" (Plot).
+#### Type a function (e.g. `x**2 - 4` or `sin(x)`) and click "Построить график" (Plot).
 ---
